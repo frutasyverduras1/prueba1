@@ -1,0 +1,39 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background-color: #31B404;
+}
+
+p{
+  text-align: center;
+}
+
+#titu{
+  text-align: center;
+}
+
+#contenedor{
+  width: 100%;
+  height: auto;
+}
+
+#titulo{
+  margin-top: 10px;
+  width: 100%;
+  height: 50px;
+  background-color: white;
+}
+
+#tabla{
+  width: 600px;
+  height: auto;
+  margin: auto;
+  border: 1px solid red;
+}
+
+.menu{
+  background-color: white;
+  width: 100%;
+  height: 500px;
+
+}
